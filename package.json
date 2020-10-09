@@ -1,0 +1,24 @@
+{
+  "name": "gauss-legendre",
+  "version": "1.0.0",
+  "description": "Gauss-Legendre quadrature abscissas and weights calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmaevsky/gauss-legendre.git"
+  },
+  "keywords": [
+    "Gauss",
+    "Legendre",
+    "quadrature"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmaevsky/gauss-legendre/issues"
+  },
+  "homepage": "https://github.com/dmaevsky/gauss-legendre#readme"
+}
